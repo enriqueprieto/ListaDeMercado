@@ -1,0 +1,77 @@
+[
+	{
+		nome	: "Detergente",
+		usuario	: "Todos", 
+		qtde	: 2
+	},
+	{
+		nome	: "Carne",
+		usuario	: "Murilo", 
+		qtde	: 1
+	},
+	{
+		nome	: "Macarrao",
+		usuario	: "Todos", 
+		qtde	: 2
+	},
+	{
+		nome 	: "Molho de tomate",
+		usuario : "Todos",
+		qtde 	: 2
+	},
+	{
+		nome 	: "Salsicha",
+		usuario : "Enrique",
+		qtde 	: 1
+	},
+	{
+		nome  	: "Pão",
+		usuario : "Enrique",
+		qtde 	: 6
+	},
+	{
+		nome 	: "Hamburguer",
+		usuario : "Enrique",
+		qtde 	: 6
+	},
+	{
+		nome 	: "Papel Toalha",
+		usuario : "Todos",
+		qtde 	: 1
+	},
+	{
+		nome 	: "Papel Higiênico",
+		usuario : "Todos",
+		qtde 	: 1
+	},
+	{
+		nome 	: "Amaciante",
+		usuario : "Todos",
+		qtde 	: 1
+	},
+	{
+		nome 	: "Arroz",
+		usuario : "Todos",
+		qtde 	: 1
+	},
+	{
+		nome 	: "Frutas",
+		usuario : "Murilo",
+		qtde 	: 1
+	},
+	{
+		nome  	: "Margarina",
+		usuario : "Todos",
+		qtde 	: 1
+	},
+	{
+		nome 	: "Agua com cheiro",
+		usuario : "Todos",
+		qtde    : 1
+	},
+	{
+		nome 	: "Plastico do cha",
+		usuario : "Todos",
+		qtde 	: 1
+	}
+]
